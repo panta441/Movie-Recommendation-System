@@ -6,3 +6,5 @@ sentence-transformers==2.6.1
 numpy==1.26.4
 google-genai==1.11.0
 python-dotenv==1.1.0
+keybert==0.9.0
+spacy==3.8.5
